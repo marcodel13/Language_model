@@ -1,0 +1,3 @@
+the command to run the model with pretrained embeddings (ad defined with Elia):
+
+python main.py --dict_file_path ../vectors/_glove.6B.50d_sampled_vuacm_voc.txt --emsize 50 --nhid 50 --epochs 5
